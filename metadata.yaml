@@ -1,0 +1,32 @@
+_repo: Nuove--Paesane-_42608
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42608-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2013-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42608'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+tableOfContents: Il Barone di Fontane Asciutte -- Un Tipo -- Il Mulo di Rosa -- Un
+  Eccentrico -- Il Fascio del Cavaliere -- Le verginelle -- Donna Stràula -- Zi' Gamella
+  -- La casa nuova.
+title: Nuove "Paesane"
+url: http://www.gutenberg.org/ebooks/42608
